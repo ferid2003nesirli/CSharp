@@ -1,0 +1,16 @@
+C:\Users\user\source\repos\C#\CSharplesson3\L3\lesson3\lesson3\bin\Debug\net5.0\lesson3.exe
+C:\Users\user\source\repos\C#\CSharplesson3\L3\lesson3\lesson3\bin\Debug\net5.0\lesson3.deps.json
+C:\Users\user\source\repos\C#\CSharplesson3\L3\lesson3\lesson3\bin\Debug\net5.0\lesson3.runtimeconfig.json
+C:\Users\user\source\repos\C#\CSharplesson3\L3\lesson3\lesson3\bin\Debug\net5.0\lesson3.runtimeconfig.dev.json
+C:\Users\user\source\repos\C#\CSharplesson3\L3\lesson3\lesson3\bin\Debug\net5.0\lesson3.dll
+C:\Users\user\source\repos\C#\CSharplesson3\L3\lesson3\lesson3\bin\Debug\net5.0\ref\lesson3.dll
+C:\Users\user\source\repos\C#\CSharplesson3\L3\lesson3\lesson3\bin\Debug\net5.0\lesson3.pdb
+C:\Users\user\source\repos\C#\CSharplesson3\L3\lesson3\lesson3\obj\Debug\net5.0\lesson3.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\C#\CSharplesson3\L3\lesson3\lesson3\obj\Debug\net5.0\lesson3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\C#\CSharplesson3\L3\lesson3\lesson3\obj\Debug\net5.0\lesson3.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\C#\CSharplesson3\L3\lesson3\lesson3\obj\Debug\net5.0\lesson3.AssemblyInfo.cs
+C:\Users\user\source\repos\C#\CSharplesson3\L3\lesson3\lesson3\obj\Debug\net5.0\lesson3.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\C#\CSharplesson3\L3\lesson3\lesson3\obj\Debug\net5.0\lesson3.dll
+C:\Users\user\source\repos\C#\CSharplesson3\L3\lesson3\lesson3\obj\Debug\net5.0\ref\lesson3.dll
+C:\Users\user\source\repos\C#\CSharplesson3\L3\lesson3\lesson3\obj\Debug\net5.0\lesson3.pdb
+C:\Users\user\source\repos\C#\CSharplesson3\L3\lesson3\lesson3\obj\Debug\net5.0\lesson3.genruntimeconfig.cache
