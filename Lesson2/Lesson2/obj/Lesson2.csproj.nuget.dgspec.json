@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\user\\source\\repos\\C#\\CSharpLesson2\\L2\\Lesson2\\Lesson2\\Lesson2.csproj": {}
+    "C:\\Users\\user\\source\\repos\\C#\\Yenii\\new\\Lesson2\\Lesson2\\Lesson2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\user\\source\\repos\\C#\\CSharpLesson2\\L2\\Lesson2\\Lesson2\\Lesson2.csproj": {
+    "C:\\Users\\user\\source\\repos\\C#\\Yenii\\new\\Lesson2\\Lesson2\\Lesson2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user\\source\\repos\\C#\\CSharpLesson2\\L2\\Lesson2\\Lesson2\\Lesson2.csproj",
+        "projectUniqueName": "C:\\Users\\user\\source\\repos\\C#\\Yenii\\new\\Lesson2\\Lesson2\\Lesson2.csproj",
         "projectName": "Lesson2",
-        "projectPath": "C:\\Users\\user\\source\\repos\\C#\\CSharpLesson2\\L2\\Lesson2\\Lesson2\\Lesson2.csproj",
+        "projectPath": "C:\\Users\\user\\source\\repos\\C#\\Yenii\\new\\Lesson2\\Lesson2\\Lesson2.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\user\\source\\repos\\C#\\CSharpLesson2\\L2\\Lesson2\\Lesson2\\obj\\",
+        "outputPath": "C:\\Users\\user\\source\\repos\\C#\\Yenii\\new\\Lesson2\\Lesson2\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
